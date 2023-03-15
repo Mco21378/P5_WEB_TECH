@@ -1,1 +1,1 @@
-# P5_WEB_TECH
+# practical-4-CS-452-JavaScriptLab
